@@ -1,3 +1,6 @@
 [submodule "sub_docs"]
 	path = sub_docs
 	url = git@github.com:jazahn/sub_docs.git
+[submodule "sub_ui"]
+	path = sub_ui
+	url = git@github.com:jazahn/sub_ui.git
