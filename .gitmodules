@@ -1,3 +1,0 @@
-[submodule "sub_docs"]
-	path = sub_docs
-	url = git@github.com:jazahn/sub_docs.git
